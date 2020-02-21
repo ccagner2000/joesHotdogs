@@ -74,4 +74,4 @@ document.write("<p>Total: $" + postTaxPrice + "</p>");
 document.write("<p style='margin:25px 0 0 0;color:#000000'>" + 
 	           "No figures are rounded until the final calculation is made." + 
 	           "</p>" + 
-	           "<p>(So you don't have to worrry about paying too much!)</p>");
+	           "<p>(So you don't have to worry about paying too much!)</p>");
